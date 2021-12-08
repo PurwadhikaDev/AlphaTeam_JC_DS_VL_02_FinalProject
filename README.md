@@ -1,4 +1,4 @@
-    # Final Project - Customer Segmentation Using KMeans Clustering based on RFM (Recency, Frequency, Monetary)Analytics
+# Final Project - Customer Segmentation Using KMeans Clustering based on RFM (Recency, Frequency, Monetary)Analytics
 Contributor:
 - Anggi Dwifiani
 - Muhamad Faroja Sa'dan
