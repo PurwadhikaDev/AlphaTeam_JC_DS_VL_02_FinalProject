@@ -63,7 +63,7 @@ This project will save some marketing costs because now the business user is abl
 
 # Data Understanding and Data Preparation
 We started by importing the needed dataset. Then we analyzed each columns, created new features where needed, and converted the formats of some features to a more usable format. After that we merged some of the tables into one analytics base table. This table is then used for EDA, handling missing data points, and choosing relevant features to be used for modelling.
-We are generating some new features, including RFM, which stands for Recency, Frequency, and Monetary value. Recency is the interval of time between the latest customer purchase and the present, frequency refers to the customers’ buying frequency in a time period, and monetary value represents the customers’ consumption of money in that period of time.
+We are generating some new features, including RFM, which stands for Recency, Frequency, and Monetary value. Recency is the interval of time between the latest customer purchase and the present, frequency refers to the customers’ buying frequency, and monetary value represents the total customers’ consumption of money.
 # Modeling
 With domain knowledge clusters we make it 4 clusters based on their RFM score value, each RFM value have been determine by their quantile except frequency then their being accumulative for scoring. Then we define as passive, regular, valuable, and royal
 
